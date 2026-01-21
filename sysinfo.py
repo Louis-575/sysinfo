@@ -1,0 +1,2 @@
+
+print("System info tool")
