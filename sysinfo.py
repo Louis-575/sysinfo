@@ -1,2 +1,3 @@
-
-print("System info tool")
+import socket
+hostname = socket.gethostname()
+print(f"Hostname: {hostname}")
